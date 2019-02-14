@@ -3,7 +3,7 @@ import './App.css';
 import celestialBodies from "./components/solarSystem.json"
 import SolCards from "./components/SolCards";
 import Scoreboard from "./components/Scoreboard";
-import Header from './header';
+import Header from './components/header';
 
 const shuffle = array => {
   for (let i = array.length - 1; i > 0; i--) {
