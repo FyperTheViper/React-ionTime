@@ -1,0 +1,93 @@
+
+[
+	{
+		"id": 3,
+		"clicked": false,
+		"photo": "assets/earth.png",
+		"name": "Earth"
+	},
+	{
+		"id": 12,
+		"clicked": false,
+		"photo": "assets/europa.png",
+		"name": "Europa"
+	},
+	{
+		"id": 11,
+		"clicked": false,
+		"photo": "assets/io.png",
+		"name": "Io"
+	},
+	{
+		"id": 15,
+		"clicked": false,
+		"photo": "assets/ganymede.png",
+		"name": "Ganymede"
+	},
+	{
+		"id": 5,
+		"clicked": false,
+		"photo": "assets/jupiter.png",
+		"name": "Jupiter"
+	},
+	{
+		"id": 10,
+		"clicked": false,
+		"photo": "assets/luna.png",
+		"name": "The Moon"
+	},
+	{
+		"id": 4,
+		"clicked": false,
+		"photo": "assets/mars.png",
+		"name": "Mars"
+	},
+	{
+		"id": 1,
+		"clicked": false,
+		"photo": "assets/mercury.png",
+		"name": "Mercury"
+	},
+	{
+		"id": 8,
+		"clicked": false,
+		"photo": "assets/neptune.png",
+		"name": "Neptune"
+	},
+	{
+		"id": 9,
+		"clicked": false,
+		"photo": "assets/pluto.png",
+		"name": "Pluto"
+	},
+	{
+		"id": 6,
+		"clicked": false,
+		"photo": "assets/saturn.png",
+		"name": "Saturn"
+	},
+	{
+		"id": 13,
+		"clicked": false,
+		"photo": "assets/titan.png",
+		"name": "Titan"
+	},
+	{
+        "id": 14,
+        "clicked": false,
+		"photo": "assets/triton.png",
+		"name": "Triton"
+    },
+    {
+        "id": 7,
+        "clicked": false,
+		"photo": "assets/uranus.png",
+		"name": "Uranus"
+    },
+    {
+        "id": 2,
+        "clicked": false,
+		"photo": "assets/venus.png",
+		"name": "Venus"
+	}
+]
