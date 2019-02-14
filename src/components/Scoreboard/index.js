@@ -8,7 +8,7 @@ const Scoreboard = props => (
         <h2>High Score: {props.topScore}</h2>
       </div>
       <div className="row justify-content-center">
-      <h6 className="description">Click on a planet or moon, but try not to click the same one twice!</h6>
+      <h5 className="description">Click on a planet or moon, but try not to click the same one twice!</h5>
       </div>
     </div>
   );

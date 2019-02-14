@@ -1,4 +1,10 @@
 h2 {
     padding: 10px;
     color: whitesmoke;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+h5 {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    color: #6e6e6e
 }
