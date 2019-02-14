@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/.github.io/React-ionTime/precache-manifest.bd49cbf14e38e6990acfa3cf305dab7f.js"
+  "/React-ionTime/precache-manifest.fa739cbcd4fa696dcf908026436428d3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/.github.io/React-ionTime/index.html", {
+workbox.routing.registerNavigationRoute("/React-ionTime/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
